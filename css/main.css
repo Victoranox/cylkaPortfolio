@@ -8,10 +8,10 @@ html {
 }
 
 .row > div,.container {
-  transition:all .25s ease-in-out;
-  -moz-transition:all .25s ease-in-out;
-  -o-transition:all .25s ease-in-out;
-  -webkit-transition:all .25s ease-in-out
+    transition:all .25s ease-in-out;
+    -moz-transition:all .25s ease-in-out;
+    -o-transition:all .25s ease-in-out;
+    -webkit-transition:all .25s ease-in-out
 }
 
 body {
@@ -37,12 +37,12 @@ h1,h2,h3,h4,h5,h6,p {
 }
 
 a {
-  cursor:pointer;
-  text-decoration:none!important;
-  transition:all .25s ease-in-out;
-  -moz-transition:all .25s ease-in-out;
-  -o-transition:all .25s ease-in-out;
-  -webkit-transition:all .25s ease-in-out
+    cursor:pointer;
+    text-decoration:none!important;
+    transition:all .25s ease-in-out;
+    -moz-transition:all .25s ease-in-out;
+    -o-transition:all .25s ease-in-out;
+    -webkit-transition:all .25s ease-in-out
 }
 
 .inline-block {
@@ -316,20 +316,20 @@ img:nth-child(5) {
 
 /* The Close Button */
 .close {
-    position: absolute;
-    top: 15px;
-    right: 35px;
-    color: #fff;
-    font-size: 40px;
-    font-weight: bold;
-    transition: 0.3s;
+  position: absolute;
+  top: 15px;
+  right: 35px;
+  color: #fff;
+  font-size: 40px;
+  font-weight: bold;
+  transition: 0.3s;
 }
 
 .close:hover,
 .close:focus {
-    color: #bbb;
-    text-decoration: none;
-    cursor: pointer;
+  color: #bbb;
+  text-decoration: none;
+  cursor: pointer;
 }
 
 /*---------------------------------------*/
@@ -386,6 +386,7 @@ footer {
 
   .primeCard {
     position: relative;
+
   }
 
   .content {
